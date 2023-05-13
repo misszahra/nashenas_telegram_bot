@@ -2,7 +2,7 @@
 Tempelate to create a telegram bot in python.
 
 ## How To Run
-1.set your telegram bot token as envirment variabel 
+1.set your telegram bot token as envirment variable 
 `TELEGRAM_BOT_TOKEN`:
 ```
 export TELEGRAM_BOT_TOKEN=<your_telegram_bot_token>
